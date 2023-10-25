@@ -4,12 +4,12 @@
 }
 
 boby {
-    background-color: aqua;
+    background-color: rgb(241, 245, 6);
 
 }
 
 main {
-    background-color: white;
+    background-color: rgb(12, 24, 196);
     width: 500px;
     margin: auto;
     padding: 10px;
